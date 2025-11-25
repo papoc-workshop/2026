@@ -28,30 +28,38 @@ The workshop is looking for contributions on the following, and associated, topi
 
 ## Details on submissions
 
-The PaPoC workshop invites short papers **up to 6 pages** (including references) discussing original contributions, experience reports, or work in progress reports (supported by initial validations). 
-We also accept longer proposals, under the understanding that PC members are only expected to read the first six pages. 
-Submissions do not need to be anonymised.
+The PaPoC workshop invites three types of submissions: 
 
-Authors of accepted papers **will have the opportunity** to choose whether they want their papers published in ACM Digital Library (along with papers from other EuroSys workshops). 
-In any case, accepted papers will be made available to participants of the workshop. 
-At least one author of each accepted submission is expected to present their work at the workshop, and to be available for discussions.
+* Short papers (up to 6 pages excluding bibliography) with original contributions, experience reports, or work-in-progress reports (supported by initial validations); 
+
+* Full papers (up to 12 pages excluding bibliography) which may be concurrently submitted (or accepted) to other venues and do not have the option to be published in the ACM Digital Library;
+
+* Lightning-talk abstracts, summarized in a maximum of 300 words, reporting preliminary ideas, new trends, recent experience, or ongoing results.
+
+Submissions do not need to be (but are allowed to be) anonymised.
+
+Papers and abstracts will be distributed to the participants of the workshop. Authors of accepted **short papers** will have the opportunity to choose whether they want their papers published in ACM Digital Library (along with papers from other EuroSys workshops).  Lightning talk abstracts and full papers will not be included in the ACM Digital Library.
+
+At least one author of each accepted submission is expected to present their work at the workshop and to be available for discussions.
 
 ## How to submit your work
 
-Submissions should be made via HotCRP (link coming soon).
+Submissions should be made [via HotCRP](https://papoc26.hotcrp.com).
 
 All submissions should be written in English and provided in PDF format. 
 We suggest that you use the [ACM template for LaTeX or MS Word](https://www.acm.org/publications/proceedings-template), but this is not required.
 
-If using the LaTeX template, please rely on the document class below. 
-To anonymize your submission, just pass the `anonymous` option to `acmart.cls`.
+If using the LaTeX template, use the `acmart` document class with the `sigplan` and `twocolumn` options. To anonymize your submission, just pass the `anonymous` option to `acmart.cls`. Finally, the `review` option will add line numbers, which will make it easier for reviewers to refer to specific parts of the paper.
 
-	\documentclass[sigplan,review]{acmart}
-	\renewcommand\footnotetextcopyrightpermission[1]{}
-	\settopmatter{printfolios=true,printacmref=false}
+For example, for an anonymized submission, one could use the following LaTeX commands:
+
+```
+\documentclass[sigplan,twocolumn,review,anonymous]{acmart}
+\renewcommand\footnotetextcopyrightpermission[1]{}
+\settopmatter{printfolios=true,printacmref=false}
+```
 
 In case of any questions, please contact the Program Chairs.
-<!-- at [papoc26@hotcrp.com](mailto:papoc26@hotcrp.com). -->
 
 ## Important Dates
 
