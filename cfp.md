@@ -67,7 +67,7 @@ In case of any questions, please contact the Program Chairs.
 |---|---|
 | Notification date     |Friday, February 27, 2026|
 | Camera-Ready deadline |Friday, March 6, 2026|
-| Workshop              |Monday, April 27, 206|
+| Workshop              |Monday, April 27, 2026|
 
 All deadline times are 23:59 hrs
 [AoE](https://www.timeanddate.com/time/zones/aoe).
