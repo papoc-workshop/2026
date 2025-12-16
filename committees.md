@@ -10,7 +10,22 @@ title: Committees
 
 **Program Committee**
 
-TBD
+* Paulo Sérgio Almeida, INESCTEC and U. Minho, Portugal
+* Jim Bauwens, Vrije Universiteit Brussel, Belgium
+* Aleksey Charapko, University at Buffalo, USA
+* Tobias Distler, University of Bamberg, Germany
+* Peter van Hardenberg, Ink & Switch, Canada
+* Hannes Hartenstein, Karlsruhe Institute of Technology, Germany
+* Joseph M. Hellerstein, UC Berkeley, USA
+* Claudia-Lavinia Ignat, Inria, France
+* João Leitão, NOVA-LINCS & NOVA University of Lisbon, Portugal
+* Hongjin Liang, Nanjing University, China
+* Richard Mortier, Cambridge University, UK
+* Burcu Ozkan, TU Delft, Netherlands
+* Ayush Pandey, Telecom SudParis, France
+* Jacopo Tagliabue, Bauplan, USA
+* Hengfeng Wei, Hunan University, China
+* Brooklyn Zelenka, Independent, Canada
 
 **Steering Committee**
 
