@@ -12,7 +12,7 @@ title: Committees
 
 * Paulo Sérgio Almeida, INESCTEC and U. Minho, Portugal
 * Jim Bauwens, Vrije Universiteit Brussel, Belgium
-* Aleksey Charapko, University at Buffalo, USA
+* Aleksey Charapko, University of New Hampshire, USA
 * Tobias Distler, University of Bamberg, Germany
 * Peter van Hardenberg, Ink & Switch, Canada
 * Hannes Hartenstein, Karlsruhe Institute of Technology, Germany
