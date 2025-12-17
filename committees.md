@@ -20,6 +20,7 @@ title: Committees
 * Claudia-Lavinia Ignat, Inria, France
 * João Leitão, NOVA-LINCS & NOVA University of Lisbon, Portugal
 * Hongjin Liang, Nanjing University, China
+* Mira Mezini, TU Darmstadt, Germany
 * Richard Mortier, Cambridge University, UK
 * Burcu Ozkan, TU Delft, Netherlands
 * Ayush Pandey, Telecom SudParis, France
