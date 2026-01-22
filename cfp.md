@@ -63,7 +63,7 @@ In case of any questions, please contact the Program Chairs.
 
 ## Important Dates
 
-| Submission deadline   |Friday, January 23, 2026|
+| Submission deadline   |~~Friday, January 23, 2026~~ Friday, January 30, 2026 |
 |---|---|
 | Notification date     |Friday, February 27, 2026|
 | Camera-Ready deadline |Friday, March 6, 2026|
