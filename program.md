@@ -28,7 +28,7 @@ title: Program
 
 ## Rachid Guerraoui
 
-<img src="keynotes/rachid.jpg" alt="Rachid Guerraoui" width="150">
+<img src="keynotes/rachid.jpg" alt="Rachid Guerraoui" width="150" style="display: block; float: right; padding-left: 10px;"/>
 
 [Rachid Guerraoui](https://people.epfl.ch/rachid.guerraoui?lang=en) has been affiliated with Ecole des Mines of Paris, the Commissariat à l'Energie Atomique of Saclay, Hewlett Packard Laboratories and the Massachusetts Institute of Technology. He has worked in a variety of aspects of distributed computing, including distributed algorithms and distributed programming languages. He is most well known for his work on (e-)Transactions, epidemic information dissemination and indulgent algorithms. He co-authored a book on Transactional Systems (Hermes) and a book on reliable distributed programming (Springer). He was appointed program chair of ECOOP 1999, ACM Middleware 2001, IEEE SRDS 2002, DISC 2004 and ACM PODC 2010.
 Rachid Guerraoui's current projects include secure distributed storage, transactional shared memory and the computability of distributed algorithms. His recent research has been sponsored by the European Commission, the Swiss National Science Foundation, LODH, MSR and HP. 
@@ -36,7 +36,7 @@ Rachid Guerraoui's current projects include secure distributed storage, transact
 
 ## KC Sivaramakrishnan
 
-<img src="keynotes/kc.jpg" alt="KC Sivaramakrishnan" width="150">
+<img src="keynotes/kc.jpg" alt="KC Sivaramakrishnan" width="150" style="display: block; float: right; padding-left: 10px;" />
 
 [KC Sivaramakrishnan](https://kcsrk.info/) is an Assistant Professor in the Computer Science and Engineering department at Indian Institute of Technology, Madras and the Chief Technology Officer of Tarides. He is interested in building robust, secure and scalable systems using programming language technology.
 He led the development of Multicore OCaml, a concurrent and parallel extension of the OCaml programming language. Multicore OCaml is now merged into OCaml, and is available for general use in OCaml 5.0. Effect handlers introduced as part of the concurrency story of Multicore OCaml has had influence on the design of React Hooks and WebAssembly stack switching.
