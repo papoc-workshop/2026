@@ -2,6 +2,27 @@
 title: Program
 ---
 
+# Accepted Papers and Lightning Talks
+
+## Papers
+
+* _AegisSheet: A Compositional CRDT for Collaborative Spreadsheets_ (short paper), Florian Pfeil (Technische Universität Darmstadt), David Scandurra (Technische Universität Darmstadt), Julian Haas (Technische Universität Darmstadt)
+* _Bounding Byzantine Impact in Open CRDT Systems_ (short paper), Carlos Baquero (Universidade do Porto & INESC TEC), Francisco Maia (Universidade do Porto & INESC TEC), Abel Dantas (Universidade do Porto & INESC TEC), Antonio Fernandez Anta (IMDEA Software Institute & IMDEA Networks Institute), Davide Frey (Inria), Cesar Sanchez (IMDEA Software Institute), Timothé Albouy (IMDEA Software Institute)
+* _Can you keep a secret? A new protocol for sender-side enforcement of causal message delivery_ (long paper), Yan Tong (UC Santa Cruz), Nathan Liittschwager (UC Santa Cruz), Lindsey Kuper (UC Santa Cruz)
+* _CobbleDB: Modelling Levelled Storage by Composition_ (short paper), Emilie Ma (University of British Columbia), Ayush Pandey (Télécom SudParis), Annette Bieniusa (University of Kaiserslautern-Landau (RPTU)), Marc Shapiro (Sorbonne-Université–LIP6 & Inria)
+* _ConflictSync: Bandwidth Efficient Synchronization of Divergent State_ (short paper), Carlos Baquero (Universidade do Porto & INESC TEC), Pedro Gomes (Universidade do Porto), Miguel Boaventura Rodrigues (Universidade do Porto)
+* _Data Consistency Challenges in AI Applications_ (long paper), Ken Birman (Cornell University and Microsoft), Jamal Aziz Hashim (Cornell University), Edward Tremel (Augusta University), Alicia Yang (Cornell University)
+* _ERA: Epoch-Resolved Arbitration for Duelling Admins in Group Management CRDTs_ (short paper), Kegan Dougal (Element Creations Ltd)
+* _SAL: Multi-modal Verification of Replicated Data Types_ (short paper), Pranav Ramesh (Indian Institute of Technology, Madras), Vimala Soundarapandian (Indian Institute of Technology, Madras), KC Sivaramakrishnan (Indian Institute of Technology, Madras)
+* _Semantic Conflict Model for Collaborative Data Structures_ (short paper), Georgii Semenov (ITMO University), Vitaly Aksenov (ITMO University)
+* _Towards Distributed Constraint Solving with CRDT_ (short paper), Hakan Hasan (SnT, University of Luxembourg), Pierre Talbot (University of Luxembourg)
+
+## Lightning Talks
+
+* _A Starting Point Towards Accessible Formal Verification of Local-First Access Control_, Florian Jacob (Karlsruhe Institute of Technology (KIT)), Johanna Stuber (Karlsruhe Institute of Technology (KIT)), Hannes Hartenstein (Karlsruhe Institute of Technology (KIT))
+* _It’s not a lie if you don’t get caught: simplifying reconfiguration in SMR through dirty logs_, Natacha Crooks (UC Berkeley & Subzero Labs), Allen Clement (Subzero Labs), Neil Giridharan (UC Berkeley & Subzero Labs), Alex Shamis (Subzero Labs)
+* _Towards practical DAG-based BFT SMR_, Paul Bergmann (Friedrich-Alexander-Universität Erlangen-Nürnberg)
+
 # Keynotes
 
 
