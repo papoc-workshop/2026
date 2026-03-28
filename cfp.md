@@ -66,8 +66,8 @@ In case of any questions, please contact the Program Chairs.
 | Submission deadline   |~~Friday, January 23, 2026~~ Friday, January 30, 2026 |
 |---|---|
 | Notification date     |~~Friday, February 27, 2026~~ Thursday, March 12, 2026 |
-| Camera-Ready deadline |~~Friday, March 6, 2026~~ | Friday, March 27, 2026 |
-| Workshop              |Monday, April 27, 2026|
+| Camera-Ready deadline |~~Friday, March 6, 2026~~ ~~Friday, March 27, 2026~~ Friday, April 3, 2026 |
+| Workshop              | Monday, April 27, 2026 |
 
 All deadline times are 23:59 hrs
 [AoE](https://www.timeanddate.com/time/zones/aoe).
