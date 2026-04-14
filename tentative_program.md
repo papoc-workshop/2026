@@ -11,7 +11,8 @@ title: Program
 
 * 8:00am **Registration / Cafe**
 * 9:00am **Welcome and chairs report**
-* 9:10am **Keynote talk** - Rachid Guerraoui
+* 9:10am **Keynote talk**
+    * _Genuine State Machine Replication_,  Rachid Guerraoui (EPFL)
 * 10:10am **Session 1**
     * 10:10am [_Data Consistency Challenges in AI Applications_](https://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/Data_Consistency_Challenges_in_AI_Systems_and_Machine_Learning_Services.pdf) (long paper), Ken Birman (Cornell University and Microsoft), Jamal Aziz Hashim (Cornell University), Edward Tremel (Augusta University), Alicia Yang (Cornell University)
 * 10:30am **Break**
@@ -22,7 +23,8 @@ title: Program
     * 12:00pm [_Can you keep a secret? A new protocol for sender-side enforcement of causal message delivery_](https://arxiv.org/abs/2603.14690) (long paper), Yan Tong (UC Santa Cruz), Nathan Liittschwager (UC Santa Cruz), Lindsey Kuper (UC Santa Cruz)
     * 12:20pm _It’s not a lie if you don’t get caught: simplifying reconfiguration in SMR through dirty logs_ (lightning talk), Natacha Crooks (UC Berkeley & Subzero Labs), Allen Clement (Subzero Labs), Neil Giridharan (UC Berkeley & Subzero Labs), Alex Shamis (Subzero Labs)
 * 12:30pm **Lunch**
-* 2:00pm **Keynote talk** - KC Sivaramakrishnan
+* 2:00pm **Keynote talk**
+    * KC Sivaramakrishnan
 * 3:00pm **Session 3**
     * 3:00pm [_Bounding Byzantine Impact in Open CRDT Systems_](https://doi.org/10.1145/3806077.3806698) (short paper), Carlos Baquero (Universidade do Porto & INESC TEC), Francisco Maia (Universidade do Porto & INESC TEC), Abel Dantas (Universidade do Porto & INESC TEC), Antonio Fernandez Anta (IMDEA Software Institute & IMDEA Networks Institute), Davide Frey (Inria), Cesar Sanchez (IMDEA Software Institute), Timothé Albouy (IMDEA Software Institute)
     * 3:20pm _Towards practical DAG-based BFT SMR_ (lightning talk), Paul Bergmann (Friedrich-Alexander-Universität Erlangen-Nürnberg)
@@ -35,7 +37,7 @@ title: Program
     * 5:20pm _A Starting Point Towards Accessible Formal Verification of Local-First Access Control_ (lightning talk), Florian Jacob (Karlsruhe Institute of Technology (KIT)), Johanna Stuber (Karlsruhe Institute of Technology (KIT)), Hannes Hartenstein (Karlsruhe Institute of Technology (KIT))
 * 5:30pm **Welcome reception**
 
-# Keynotes
+# Keynote speakers
 
 ## Rachid Guerraoui
 
