@@ -18,7 +18,7 @@ title: Program
 * 11:00am **Session 2**
     * 11:00am [_ERA: Epoch-Resolved Arbitration for Duelling Admins in Group Management CRDTs_](https://doi.org/10.1145/3806077.3806691) (short paper), Kegan Dougal (Element Creations Ltd)
     * 11:20am [_Towards Distributed Constraint Solving with CRDT_](https://doi.org/10.1145/3806077.3806699) (short paper), Hakan Hasan (SnT, University of Luxembourg), Pierre Talbot (University of Luxembourg)
-    * 11:40am [_Sal: Multi-modal Verification of Replicated Data Types_](https://arxiv.org/abs/2603.27202) (short paper), Pranav Ramesh (Indian Institute of Technology,
+    * 11:40am [_Sal: Multi-modal Verification of Replicated Data Types_](https://arxiv.org/abs/2603.27202) (short paper), Pranav Ramesh (Indian Institute of Technology, Madras), Vimala Soundarapandian (Indian Institute of Technology, Madras), KC Sivaramakrishnan (Indian Institute of Technology, Madras)
     * 12:00pm [_Can you keep a secret? A new protocol for sender-side enforcement of causal message delivery_](https://arxiv.org/abs/2603.14690) (long paper), Yan Tong (UC Santa Cruz), Nathan Liittschwager (UC Santa Cruz), Lindsey Kuper (UC Santa Cruz)
     * 12:20pm _It’s not a lie if you don’t get caught: simplifying reconfiguration in SMR through dirty logs_ (lightning talk), Natacha Crooks (UC Berkeley & Subzero Labs), Allen Clement (Subzero Labs), Neil Giridharan (UC Berkeley & Subzero Labs), Alex Shamis (Subzero Labs)
 * 12:30pm **Lunch**
