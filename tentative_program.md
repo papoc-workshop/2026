@@ -35,21 +35,17 @@ title: Program
     * 4:00pm [_Semantic Conflict Model for Collaborative Data Structures_](https://doi.org/10.1145/3806077.3806700) (short paper), Georgii Semenov (ITMO University), Vitaly Aksenov (ITMO University)
     * 4:20pm [_ConflictSync: Bandwidth Efficient Synchronization of Divergent State_](https://doi.org/10.1145/3806077.3806697) (short paper), Carlos Baquero (Universidade do Porto & INESC TEC), Pedro Gomes (Universidade do Porto), Miguel Boaventura Rodrigues (Universidade do Porto)
     * 4:40pm [_AegisSheet: A Compositional CRDT for Collaborative Spreadsheets_](https://doi.org/10.1145/3806077.3806695) (short paper), Florian Pfeil (Technische Universität Darmstadt), David Scandurra (Technische Universität Darmstadt), Julian Haas (Technische Universität Darmstadt)
-    * 5:00pm [_CobbleDB: Modelling Levelled Storage by Composition_](https://doi.org/10.1145/3806077.3806696) (short paper), Emilie Ma (University of British Columbia), Ayush Pandey (Télécom SudParis), Annette Bieniusa (University of Kaiserslautern-Landau (RPTU)), Marc Shapiro (Sorbonne-Université–LIP6 & Inria)
-    * 5:20pm _A Starting Point Towards Accessible Formal Verification of Local-First Access Control_ (lightning talk), Florian Jacob (Karlsruhe Institute of Technology (KIT)), Johanna Stuber (Karlsruhe Institute of Technology (KIT)), Hannes Hartenstein (Karlsruhe Institute of Technology (KIT))
+    * 5:00pm [_CobbleDB: Modelling Levelled Storage by Composition_](https://doi.org/10.1145/3806077.3806696) (short paper), Emilie Ma (University of British Columbia), Ayush Pandey (Télécom SudParis), Annette Bieniusa (University of Kaiserslautern-Landau (RPTU), Marc Shapiro (Sorbonne-Université–LIP6 & Inria)
+    * 5:20pm _A Starting Point Towards Accessible Formal Verification of Local-First Access Control_ (lightning talk), Florian Jacob (Karlsruhe Institute of Technology (KIT), Johanna Stuber (Karlsruhe Institute of Technology (KIT), Hannes Hartenstein (Karlsruhe Institute of Technology (KIT)
 * 5:30pm **Welcome reception**
 
-# Keynote speakers
-
-## Rachid Guerraoui
+## Keynote speakers
 
 <img src="keynotes/rachid.jpg" alt="Rachid Guerraoui" width="150" style="display: block; float: right; padding-left: 10px;"/>
 
 [Rachid Guerraoui](https://people.epfl.ch/rachid.guerraoui?lang=en) has been affiliated with Ecole des Mines of Paris, the Commissariat à l'Energie Atomique of Saclay, Hewlett Packard Laboratories and the Massachusetts Institute of Technology. He has worked in a variety of aspects of distributed computing, including distributed algorithms and distributed programming languages. He is most well known for his work on (e-)Transactions, epidemic information dissemination and indulgent algorithms. He co-authored a book on Transactional Systems (Hermes) and a book on reliable distributed programming (Springer). He was appointed program chair of ECOOP 1999, ACM Middleware 2001, IEEE SRDS 2002, DISC 2004 and ACM PODC 2010.
 Rachid Guerraoui's current projects include secure distributed storage, transactional shared memory and the computability of distributed algorithms. His recent research has been sponsored by the European Commission, the Swiss National Science Foundation, LODH, MSR and HP. 
 
-
-## KC Sivaramakrishnan
 
 <img src="keynotes/kc.jpg" alt="KC Sivaramakrishnan" width="150" style="display: block; float: right; padding-left: 10px;" />
 
