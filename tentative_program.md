@@ -9,6 +9,8 @@ title: Program
 
 ## Schedule
 
+**Room:** Carrick 1 (Level 1)
+
 * 8:00am **Registration / Cafe**
 * 9:00am **Welcome and chairs report**
 * 9:10am **Keynote talk**
@@ -24,7 +26,7 @@ title: Program
     * 12:20pm _It’s not a lie if you don’t get caught: simplifying reconfiguration in SMR through dirty logs_ (lightning talk), Natacha Crooks (UC Berkeley & Subzero Labs), Allen Clement (Subzero Labs), Neil Giridharan (UC Berkeley & Subzero Labs), Alex Shamis (Subzero Labs)
 * 12:30pm **Lunch**
 * 2:00pm **Keynote talk**
-    * KC Sivaramakrishnan
+    * KC Sivaramakrishnan (IIT Madras)
 * 3:00pm **Session 3**
     * 3:00pm [_Bounding Byzantine Impact in Open CRDT Systems_](https://doi.org/10.1145/3806077.3806698) (short paper), Carlos Baquero (Universidade do Porto & INESC TEC), Francisco Maia (Universidade do Porto & INESC TEC), Abel Dantas (Universidade do Porto & INESC TEC), Antonio Fernandez Anta (IMDEA Software Institute & IMDEA Networks Institute), Davide Frey (Inria), Cesar Sanchez (IMDEA Software Institute), Timothé Albouy (IMDEA Software Institute)
     * 3:20pm _Towards practical DAG-based BFT SMR_ (lightning talk), Paul Bergmann (Friedrich-Alexander-Universität Erlangen-Nürnberg)
