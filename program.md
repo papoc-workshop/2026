@@ -4,7 +4,7 @@ title: Program
 
 # Workshop Program
 
-* Links to papers in the proceedings will work only after publication in ACM DL.
+* Full-text of the proceedings will be available in the [ACM DL](https://dl.acm.org/doi/proceedings/10.1145/3806077) on the day of the workshop.
 
 ## Schedule
 
