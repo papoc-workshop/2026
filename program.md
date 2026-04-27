@@ -4,11 +4,11 @@ title: Program
 
 # Workshop Program
 
-* Full-text of the proceedings will be available in the [ACM DL](https://dl.acm.org/doi/proceedings/10.1145/3806077) on the day of the workshop.
+* Full-text of the proceedings is available in the [ACM DL](https://dl.acm.org/doi/proceedings/10.1145/3806077).
 
 ## Schedule
 
-**Room:** Carrick 1 (Level 1)
+**Room:** ~~Carrick 1~~ **Carrick 3** (Level 1)
 
 * 8:00am **Registration / Cafe**
 * 9:00am **Welcome and chairs report**
