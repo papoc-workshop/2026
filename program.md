@@ -34,7 +34,7 @@ title: Program
     * 4:20pm [_ConflictSync: Bandwidth Efficient Synchronization of Divergent State_](https://doi.org/10.1145/3806077.3806697) (short paper), Carlos Baquero (Universidade do Porto & INESC TEC), Pedro Gomes (Universidade do Porto), Miguel Boaventura Rodrigues (Universidade do Porto)
     * 4:40pm [_AegisSheet: A Compositional CRDT for Collaborative Spreadsheets_](https://doi.org/10.1145/3806077.3806695) (short paper), Florian Pfeil (Technische Universität Darmstadt), David Scandurra (Technische Universität Darmstadt), Julian Haas (Technische Universität Darmstadt)
     * 5:00pm [_CobbleDB: Modelling Levelled Storage by Composition_](https://doi.org/10.1145/3806077.3806696) (short paper), Emilie Ma (University of British Columbia), Ayush Pandey (Télécom SudParis), Annette Bieniusa (University of Kaiserslautern-Landau (RPTU), Marc Shapiro (Sorbonne-Université–LIP6 & Inria)
-    * 5:20pm _A Starting Point Towards Accessible Formal Verification of Local-First Access Control_ (lightning talk), Florian Jacob (Karlsruhe Institute of Technology (KIT), Johanna Stuber (Karlsruhe Institute of Technology (KIT), Hannes Hartenstein (Karlsruhe Institute of Technology (KIT)
+    * 5:20pm [_Towards System-Oriented Formal Verification of Local-First Access Control_](https://codeberg.org/kit-dsn/towards-formal-verification-local-first-access-control/src/branch/main/preprint.pdf) (lightning talk), Florian Jacob (Karlsruhe Institute of Technology (KIT), Johanna Stuber (Karlsruhe Institute of Technology (KIT), Hannes Hartenstein (Karlsruhe Institute of Technology (KIT)
 * 5:30pm **Welcome reception**
 
 ## Keynotes
